@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hi, I'm Kier Gubalani! <img src="https://media.giphy.com/media/jsHVvDpDMCwbyLuYM0/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+<p><em>I am currently studying Computer Science at <a href="https://www.sti.edu/">STI College</a><img src="https://media.giphy.com/media/dUqyQDi9Dg2bPDlO6L/giphy.gif" width="30">
+</em></p>
 
-<!--
-**kieruu/kieruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const kier = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, C#, Java],
+  tools: [React, Redux, Node],
+  databases: [MongoDB, MySQL, SQLite],
+  architecture: ["Singe Page Application","Event-Driven"],
+}
+```
+---
