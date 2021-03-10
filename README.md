@@ -10,7 +10,7 @@ const kier = {
   code: [Javascript, HTML, CSS, C#, Java],
   tools: [React, Redux, Node],
   databases: [MongoDB, MySQL, SQLite],
-  architecture: ["Singe Page Application","Event-Driven"],
+  architecture: ["Singe Page Application"],
 }
 ```
 ---
