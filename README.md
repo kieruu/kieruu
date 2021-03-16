@@ -8,7 +8,7 @@
 const kier = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, C#, Java],
-  tools: [React, Redux, Node],
+  tools: [React, Next, Redux, Node],
   databases: [MongoDB, MySQL, SQLite],
   architecture: ["Singe Page Application"],
 }
