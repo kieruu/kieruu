@@ -6,7 +6,6 @@
 
 ```javascript
 const kier = {
-  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, C#, Java],
   tools: [React, Next, Redux, Node],
   databases: [MongoDB, MySQL, SQLite],
